@@ -1,0 +1,4 @@
+RESOLUSI
+  - konsistensi
+  - membuat platform
+  - membuat web
